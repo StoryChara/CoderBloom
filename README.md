@@ -6,14 +6,7 @@
 
 ## 📚 Estructura del Curso
 
-### [Busqueda Lineal](https://github.com/StoryChara/CoderBloom_CPCII/blob/main/Busqueda%20Lineal.ipynb) 🧱
-
-Este módulo introduce los conceptos básicos de programación y sienta las bases para el desarrollo backend. Aprenderás sobre:
-
-- **Tipos de datos y variables**: Comprender cómo manejar datos en Python.
-- **Estructuras de control**: Uso de condicionales y bucles para lógica de programación.
-- **Programación Orientada a Objetos (POO)**: Principios como clases, objetos, herencia y encapsulamiento.
-- **Buenas prácticas**: Escritura de código limpio y organizado.
+### [Busqueda Lineal](https://github.com/StoryChara/CoderBloom_CPCII/blob/main/1.%20Busqueda%20Lineal.ipynb) 🧱
 
 ---
 
