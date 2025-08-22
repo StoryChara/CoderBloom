@@ -7,6 +7,7 @@
 ## 📚 Estructura del Curso
 
 ### [Busqueda Lineal](https://github.com/StoryChara/CoderBloom_CPCII/blob/main/1.%20Busqueda%20Lineal.ipynb) 🧱
+### [Recursion](https://github.com/StoryChara/CoderBloom_CPCII/blob/main/2.%20Recursion.ipynb) 🧱
 
 ---
 
